@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    /* background-color: aquamarine; */
+    color: white;
+    /* margin: 10px; */
+    /* padding-left: 300px; */
+    font-weight: bolder;
+    font-size: 50px;
+}
+table tr td{
+    border: solid 3px;
+    border-radius: 10px;
+    padding: 15px;
+    /* align-items: center; */
+    columns: 10px;
+}
+td{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-stretch: expanded; */
+    font-weight: bold;
+    /* color: white; */
+}
+body{
+   /* margin: 100px; */
+   background-color: black;
+   color: white;
+}
+.semitable{
+    /* margin-top: 20px; */
+    margin: 10px 0px 0px 0px;
+}
+.none{
+    border: none;
+    /* background: none; */
+}
+.green{
+    border-color: greenyellow;
+    /* background-color: greenyellow; */
+}
+.pink{
+    border-color: rgb(235, 101, 163);
+    /* background-color: rgb(233, 101, 163); */
+}
+.darkgreen{
+    border-color: green;
+    /* background-color: green; */
+}
+.Red{
+    border-color: red;
+    /* background-color: red; */
+}
+.orange{
+    border-color: orange;
+    /* background-color: orange; */
+}
+.lightblue{
+    border-color: lightblue;
+    /* background-color: lightblue; */
+}
+.blue{
+    border-color: blue;
+    /* background-color: blue; */
+}
+.yellow{
+    border-color: yellow;
+    /* background-color: yellow; */
+}
+.aqua{
+    border-color: aqua;
+    /* background-color: aqua; */
+}
+.purple{
+    border-color:purple;
+    /* background: purple; */
+}
